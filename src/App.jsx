@@ -1,22 +1,19 @@
-// import { useState } from 'react'
-// import reactLogo from './assets/react.svg'
-// import viteLogo from '/vite.svg'
-import './App.css'
-import './table.jsx'
+// // import './task.jsx'
+// import './App.css'
+// import './table.jsx'
 // import Table from './table.jsx'
-import Cardss from './cardss.jsx'
+// import Cardss from './cardss.jsx'
+// // impo
 
-
-function App() {
-  // const [count, setCount] = useState(0)
-
-  return (
-    <>
-    {/* <Table/> */}
-    <Cardss/>
+// function App() {
+//   return (
+//     <>
+//     {/* <Example/> */}
+//     <Table/>
+//     <Cardss/>
       
-    </>
-  )
-}
+//     </>
+//   )
+// }
 
-export default App
+// export default App
