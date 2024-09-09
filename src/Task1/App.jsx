@@ -1,4 +1,4 @@
-// import DisplayTable from "../Task-2/Day2"
+import DisplayTable from "../Task-2/Day2"
 import PresentCards from "./Ppt-task"
 import './Ppt-task'
 // import './Ppt-task.css'
@@ -7,7 +7,7 @@ import './Ppt-task'
 const App=()=>{
     return(<>
     <PresentCards/>
-    {/* <DisplayTable/> */}
+    <DisplayTable/>
 
  
  
